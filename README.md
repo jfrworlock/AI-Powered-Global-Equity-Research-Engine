@@ -5,7 +5,7 @@ A modular research pipeline for building **global, point-in-time fundamental equ
 This repository contains:
 
 - **V1** — the original automotive-focused end-to-end implementation
-- **V2** — an ongoing redesign into a reusable, industry-neutral research engine
+- **V2** (work in progress) — an ongoing redesign into a reusable, industry-neutral research engine
 
 ## Objective
 
